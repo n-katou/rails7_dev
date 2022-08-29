@@ -9,3 +9,4 @@ elsif animal == 'cow'
 else
   puts 'Not found'
 end
+
