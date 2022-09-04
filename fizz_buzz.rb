@@ -25,7 +25,3 @@ puts fizz_buzz(12)
 puts fizz_buzz(13)
 puts fizz_buzz(14)
 puts fizz_buzz(15)
-
-
-
-
